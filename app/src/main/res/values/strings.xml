@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Pengingat Tugas</string>
+    <string name="title_new_task">Tugas Baru</string>
+    <string name="title_name_task">Nama Tugas</string>
+    <string name="title_task_date">Tanggal Tugas</string>
+    <string name="title_task_desc">Deskripsi Tugas</string>
+    <string name="title_add_task">Tambah Tugas</string>
+    <string name="title_no_upcoming_task">Tidak ada tugas terdekat saat ini</string>
+    <string name="error_blank_field">Bagian ini tidak boleh kosong</string>
+    <string name="title_no_task">Tidak ada tugas saat ini</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="title_edit_task">Edit Tugas</string>
+    <string name="title_uodate_task">Perbarui Tugas</string>
+    <string name="delete">Hapus</string>
+    <string name="title_stat_taks">Status Tugas</string>
+    <string name="title_about_app">Tentang Aplikasi</string>
+    <string name="title_task_time">Waktu Tugas</string>
+    <string name="title_all">Semua Tugas</string>
+    <string name="title_undone">Tugas Belum Selesai</string>
+    <string name="title_done">Tugas Selesai</string>
+    <string name="menu_search">Pencarian</string>
+    <string name="search_hint">Nama Tugas</string>
+    <string name="all_task">Semua Tugas</string>
+</resources>
